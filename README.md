@@ -1,3 +1,5 @@
+![Alt text](banniere-github.png?raw=true "Title")
+
 ## Hi there, I'm Alexandre - aka Pepito 👋
 
 
@@ -35,9 +37,9 @@
 ---
 
 ### ⚡ Github Stats
-<!--START_SECTION:activity-->
-![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
-<!--END_SECTION:activity-->
+
+![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true)
+
 
 
 ### ⚡ Github Languages
