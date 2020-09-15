@@ -1,4 +1,4 @@
-![Alt text](banniere-github.png)
+![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/banniere-github.png)
 
 ## Hi there, I'm Alexandre - aka Pepito 👋
 
