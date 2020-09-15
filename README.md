@@ -1,4 +1,4 @@
-![Alt text](banniere-github.png?raw=true "Title")
+![Alt text](banniere-github.png)
 
 ## Hi there, I'm Alexandre - aka Pepito 👋
 
