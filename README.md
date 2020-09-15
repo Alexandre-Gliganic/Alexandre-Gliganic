@@ -4,7 +4,7 @@
 
 
 
-### I'm a french developper student!
+### I'm a french developer student!
 
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
