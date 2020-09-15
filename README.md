@@ -1,4 +1,4 @@
-![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/banniere-githubv2.png)
+![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/baniere-github-v2.jpg)
 
 ## Alexandre Gliganic
 
