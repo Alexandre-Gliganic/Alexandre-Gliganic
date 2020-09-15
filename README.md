@@ -35,13 +35,13 @@
 ---
 <!--UPDAT1:START-->
 ### ⚡ Github Stats
-![Github Stat](https://github-readme-stats.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
+![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
 
 <!--UPDATE1:END-->
 
 
 ### ⚡ Github Languages
-![Github Languages](https://github-readme-stats.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
+![Github Languages](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
 
 
 [website]: https://alexandregliganic.fr
