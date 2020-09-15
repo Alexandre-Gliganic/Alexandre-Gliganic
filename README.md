@@ -33,11 +33,11 @@
 <br />
 
 ---
-<!--UPDAT1:START-->
-### ⚡ Github Stats
-![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
 
-<!--UPDATE1:END-->
+### ⚡ Github Stats
+<!--START_SECTION:activity-->
+![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
+<!--END_SECTION:activity-->
 
 
 ### ⚡ Github Languages
