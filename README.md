@@ -7,7 +7,7 @@
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
-- 🎸 Fun fact: I love to play guitar and drums
+- 🎸 Fun fact: I love to play guitar and drums.
 
 
 
@@ -35,10 +35,10 @@
 ---
 
 ### ⚡ Github Stats
-![Github Stat](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true)
+![Github Stat](https://github-readme-stats.alexandre-gliganic.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true)
 
 ### ⚡ Github Languages
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
+![Github Languages](https://github-readme-stats.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
 
 
 
