@@ -36,7 +36,7 @@
 
 
 ### ⚡ Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true)
+[](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true)
 
 
 ### ⚡ Github Languages
