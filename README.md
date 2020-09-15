@@ -34,10 +34,10 @@
 
 ---
 
-
 ### ⚡ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true)
 
+https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true
 
 ### ⚡ Github Languages
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
