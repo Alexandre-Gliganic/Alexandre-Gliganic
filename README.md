@@ -44,8 +44,6 @@
 
 
 
-
-
 [website]: https://alexandregliganic.fr
 [websiteproject]: https://www.alexandregliganic.fr/projets.html
 [youtube]: https://www.youtube.com/channel/UCKX6bcwoQZ-B5nfRiMTZkqg
