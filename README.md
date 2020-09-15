@@ -9,7 +9,7 @@
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
-- 🎸 Fun fact: I love to play guitar and drums.
+- 🎸 Fun fact: I like playing guitar and drums.
 
 
 
