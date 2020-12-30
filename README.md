@@ -9,7 +9,8 @@
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
-<br />
+- 📩 How to reach me : [LinkedIn][linkedin],[Youtube][youtube],[Mail][mailto:alexandre.gliganic@outlook.com]
+
 ### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me :
 ```javascript
 const alexandre = {
@@ -20,22 +21,15 @@ const alexandre = {
                         project: "Project Arena", "OCR"
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- funFact: "🎸 Fun fact: I like playing guitar and drums.",
+ funFact: "🎸 Fun fact: I like playing guitar and drums."
 }
 ```
-<br />
-### Contact me with :
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://e7.pngegg.com/pngimages/114/264/png-clipart-web-development-web-design-logo-web-design-globe-text.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br />
 ---
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats 
 
-![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app//api?username=alexandre-gliganic&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true)
+![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app//api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
 
 
