@@ -9,7 +9,7 @@
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
-- 📩 How to reach me : [LinkedIn][linkedin],[Youtube][youtube],[Mail][mailto:alexandre.gliganic@outlook.com]
+- 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail]
 
 ### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me :
 ```javascript
@@ -34,7 +34,7 @@ const alexandre = {
 
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Languages
-![Github Languages](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8)
+![Github Languages](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8&theme=chartreuse-dark)
 
 
 [website]: https://alexandregliganic.fr
@@ -42,4 +42,5 @@ const alexandre = {
 [youtube]: https://www.youtube.com/channel/UCKX6bcwoQZ-B5nfRiMTZkqg
 [epita]: https://www.epita.fr/
 [linkedin]: https://www.linkedin.com/in/alexandre-gliganic-1a4bb41ba/
+[mail]: mailto:alexandre.gliganic@outlook.com
 
