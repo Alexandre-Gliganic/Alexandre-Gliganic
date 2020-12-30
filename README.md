@@ -2,12 +2,11 @@
 
 ## Alexandre Gliganic
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
+<img align='right' src="https://giphy.com/embed/IeRdg7gLkfK1ly2mFU" width="250">
 
 ### I'm a french developer student!
-
+- 🎓 I'm a french student at [EPITA][epita].
 - 💻 I’m currently working on a [project][websiteproject] !
-- 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
 - 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail]
 
