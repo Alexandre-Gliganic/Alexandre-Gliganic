@@ -1,8 +1,8 @@
 ![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/baniere-github-v2.jpg)
 
-## Alexandre Gliganic
+## Alexandre Gliganic <img src="https://i.giphy.com/media/DruBaWrcmXX5m/200w.webp" width="50">
 
-<img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="150">
+<img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="250">
 
 ### I'm a french developer student!
 - 🎓 I'm a french student at [EPITA][epita].
@@ -10,7 +10,7 @@
 - 🌐 View my [website][website] here.
 - 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail]
 
-### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me :
+### <img src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp" width="50"> Little bit more about me :
 ```javascript
 const alexandre = {
   code: [HTML, CSS, C, C#, Python, OCaml],
@@ -26,7 +26,7 @@ const alexandre = {
 <br />
 ---
 
-### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats 
+### <img src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp" width="40"> My Github Stats :
 
 ![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app//api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
