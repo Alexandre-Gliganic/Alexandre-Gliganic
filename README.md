@@ -2,7 +2,7 @@
 
 ## Alexandre Gliganic
 
-<img align='right' src="https://giphy.com/embed/IeRdg7gLkfK1ly2mFU" width="250">
+<img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="150">
 
 ### I'm a french developer student!
 - 🎓 I'm a french student at [EPITA][epita].
