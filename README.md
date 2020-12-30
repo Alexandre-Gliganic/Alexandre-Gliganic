@@ -9,18 +9,7 @@
 - 💻 I’m currently working on a [project][websiteproject] !
 - 👨‍🎓 I'm a french student at [EPITA][epita].
 - 🌐 View my [website][website] here.
-
-
-
-### Contact me with :
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br />
-
-
 ### <img src="https://media.giphy.com/media/mtAU9hD8qdrBC/giphy.gif" width="50"> Little bit more about me :
 ```javascript
 const alexandre = {
@@ -31,12 +20,17 @@ const alexandre = {
                         project: "Project Arena", "OCR"
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- funFact: "🎸 Fun fact: I like playing guitar and drums.",
- lifePhilosophy: "I only have time for coffee"
+ funFact: "🎸 Fun fact: I like playing guitar and drums."
 }
 ```
 <br />
+### Contact me with :
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="🌐" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
 ---
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats 
