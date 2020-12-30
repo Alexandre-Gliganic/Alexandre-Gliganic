@@ -6,11 +6,11 @@
 
 ### I'm a french developer student!
 - 🎓 I'm a french student at [EPITA][epita].
-- 💻 I’m currently working on a [project][websiteproject] !
+- 💻 I’m currently working on a [project][websiteproject]!
 - 🌐 View my [website][website] here.
-- 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail]
+- 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail].
 
-### <img src="https://i.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.webp" width="35"> Little bit more about me :
+### <img src="https://i.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.webp" width="50"> Little bit more about me:
 ```javascript
 const alexandre = {
   code: [HTML, CSS, C, C#, Python, OCaml],
@@ -26,7 +26,7 @@ const alexandre = {
 <br />
 ---
 
-### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats :
+### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats:
 
 ![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app//api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
