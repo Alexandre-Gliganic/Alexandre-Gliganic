@@ -1,6 +1,4 @@
-
-
-## Alexandre Gliganic <img src="https://i.giphy.com/media/DruBaWrcmXX5m/200w.webp" width="50">
+# Hi, I'm Alexandre Gliganic <img src="https://i.giphy.com/media/DruBaWrcmXX5m/200w.webp" width="50">
 
 <img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="250">
 
