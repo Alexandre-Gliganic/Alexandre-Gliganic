@@ -20,13 +20,13 @@ const alexandre = {
                         project: "Project Arena", "OCR"
                         members: [Amine, Alexandre, Martin, Bryan]
                       },
- funFact: "🎸 Fun fact: I like playing guitar and drums."
+ funFact: "🎸 Fun fact: I like playing guitar and drums.",
 }
 ```
 <br />
 ### Contact me with :
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="🌐" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://e7.pngegg.com/pngimages/114/264/png-clipart-web-development-web-design-logo-web-design-globe-text.png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
