@@ -10,7 +10,7 @@
 - 🌐 View my [website][website] here.
 - 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail].
 
-### <img src="https://i.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.webp" width="50"> Little bit more about me:
+### <img src="https://i.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp" width="50"> Little bit more about me:
 ```javascript
 const alexandre = {
   code: [HTML, CSS, C, C#, Python, OCaml],
@@ -23,7 +23,9 @@ const alexandre = {
  funFact: "🎸 Fun fact: I like playing guitar and drums."
 }
 ```
+
 <br />
+
 ---
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats:
