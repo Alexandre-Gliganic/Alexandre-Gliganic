@@ -41,4 +41,4 @@ const alexandre = {
 [epita]: https://www.epita.fr/
 [linkedin]: https://www.linkedin.com/in/alexandre-gliganic-1a4bb41ba/
 [mail]: mailto:alexandre.gliganic@outlook.com
-[banniere]:![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/baniere-github-v2.jpg)
+<!-- ![Banniere picture](https://raw.githubusercontent.com/Alexandre-Gliganic/Alexandre-Gliganic/master/baniere-github-v2.jpg)" -->
