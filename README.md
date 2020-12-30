@@ -4,7 +4,7 @@
 
 <img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="250">
 
-### I'm a french developer student!
+### I'm a french student developer!
 - 🎓 I'm a french student at [EPITA][epita].
 - 💻 I’m currently working on a [project][websiteproject]!
 - 🌐 View my [website][website] here.
