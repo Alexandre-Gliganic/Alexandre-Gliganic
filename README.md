@@ -11,8 +11,8 @@
 ### <img src="https://i.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp" width="50"> Little bit more about me:
 ```javascript
 const alexandre = {
-  code: [HTML, CSS, C, C#, Python, OCaml],
-  tools: [Bootstrap, VSCode, Django, Rider, Unity, Terminal],
+  code: [C, C#, Rust, Python, OCaml, HTML, CSS],
+  tools: [Bootstrap, VSCode, Rider, Unity, Terminal],
   projectGroup: {
                         groupName: "Tungsten Corporation",
                         project: "Project Arena", "OCR"
