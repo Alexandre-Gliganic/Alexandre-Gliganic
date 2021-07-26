@@ -27,10 +27,10 @@ const alexandre = {
 ---
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats:
-![Github Stat](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app//api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
+![Github Stat](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> Github Languages
-![Github Languages](https://github-readme-stats-git-master.alexandre-gliganic.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-gliganic&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)
 
 
 [website]: https://alexandregliganic.fr
