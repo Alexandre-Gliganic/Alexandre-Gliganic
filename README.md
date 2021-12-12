@@ -14,11 +14,14 @@ I'm a french student at [EPITA][epita].
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 ![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
 
+### My projects 💻:
+- QRCode Generator in C: [Project 404](https://project404.alexandregliganic.fr)
+- Unity 3D Game in C# [Project Arena](https://tungsten.alexandregliganic.fr)
+
 ### Contact me 📢
-![Discord](https://img.shields.io/badge/Discord-AlexandrePepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Alexandre_Pepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
 [![Mail](https://img.shields.io/badge/Mail-alexandre.gliganic@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:alexandre.gliganic@epita.fr)
 [![Website](https://img.shields.io/badge/Website-alexandregliganic.fr-red?style=for-the-badge)](alexandregliganic.fr)
-[![Instagram](https://img.shields.io/badge/Instagram-alexandre_gliganic-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexandre_gliganic/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-alexandre_gliganic-purple?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
 
 
