@@ -2,30 +2,28 @@
 
 <img align='right' src="https://i.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.webp" width="250">
 
-### I'm a french student developer!
-- 🎓 I'm a french student at [EPITA][epita].
-- 💻 I’m currently working on a [project][websiteproject]!
-- 🌐 View my [website][website] here.
-- 📩 How to reach me : [LinkedIn][linkedin], [Youtube][youtube], [Mail][mail].
+I'm a french student at [EPITA][epita].
 
-### <img src="https://i.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp" width="50"> Little bit more about me:
-```javascript
-const alexandre = {
-  code: [C, C#, Rust, Python, OCaml, HTML, CSS],
-  tools: [Bootstrap, VSCode, Rider, Unity, Terminal],
-  projectGroup: {
-                        groupName: "Tungsten Corporation",
-                        project: "Project Arena", "OCR"
-                        members: [Amine, Alexandre, Martin, Bryan]
-                      },
- funFact: "🎸 Fun fact: I like playing guitar and drums."
-}
-```
+### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](alexandregliganic.fr)
 
-<br />
+### Languages I code with 🎯:
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c&logoColor=white)
+![Csharp](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=C-Sharp)
+![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
+
+### Contact me 📢
+![Discord](https://img.shields.io/badge/Discord-Alexandre Pepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
+[![Mail](https://img.shields.io/badge/Mail-alexandre.gliganic@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:alexandre.gliganic@epita.fr)
+[![Website](https://img.shields.io/badge/Website-alexandregliganic.fr-red?style=for-the-badge)](alexandregliganic.fr)
+[![Instagram](https://img.shields.io/badge/Instagram-alexandre_gliganic-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexandre_gliganic/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-alexandre_gliganic-purple?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
+
 
 ---
-
+### Github stats 📊
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats:
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -34,8 +32,6 @@ const alexandre = {
 
 
 [website]: https://alexandregliganic.fr
-[websiteproject]: https://www.alexandregliganic.fr/projets.html
-[youtube]: https://www.youtube.com/channel/UCKX6bcwoQZ-B5nfRiMTZkqg
 [epita]: https://www.epita.fr/
 [linkedin]: https://www.linkedin.com/in/alexandre-gliganic-1a4bb41ba/
 [mail]: mailto:alexandre.gliganic@outlook.com
