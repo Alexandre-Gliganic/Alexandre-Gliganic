@@ -4,7 +4,7 @@
 
 I'm a french student at [EPITA][epita].
 
-### Have a look on my website : ![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)(alexandregliganic.fr)
+### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)][website]
 
 ### Languages I code with 🎯:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
