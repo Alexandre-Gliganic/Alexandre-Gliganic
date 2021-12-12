@@ -16,7 +16,7 @@ I'm a french student at [EPITA][epita].
 
 ### My projects 💻:
 - QRCode Generator in C: [Project 404](https://project404.alexandregliganic.fr)
-- Unity 3D Game in C# [Project Arena](https://tungsten.alexandregliganic.fr)
+- Unity 3D Game in C#: [Project Arena](https://tungsten.alexandregliganic.fr)
 
 ### Contact me 📢
 ![Discord](https://img.shields.io/badge/Discord-Alexandre_Pepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
@@ -25,9 +25,8 @@ I'm a french student at [EPITA][epita].
 [![Linkedin](https://img.shields.io/badge/Linkedin-alexandre_gliganic-purple?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/badge/Website-alexandregliganic.fr-red?style=for-the-badge)](alexandregliganic.fr/contact)
 
-
-
 ---
+
 ### Github stats 📊
 ### <img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="40"> My Github Stats:
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=alexandre-gliganic&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true)
