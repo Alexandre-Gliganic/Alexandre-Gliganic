@@ -15,7 +15,7 @@ I'm a french student at [EPITA][epita].
 ![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
 
 ### Contact me 📢
-![Discord](https://img.shields.io/badge/Discord-Alexandre Pepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Alexandre-Pepito%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
 [![Mail](https://img.shields.io/badge/Mail-alexandre.gliganic@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:alexandre.gliganic@epita.fr)
 [![Website](https://img.shields.io/badge/Website-alexandregliganic.fr-red?style=for-the-badge)](alexandregliganic.fr)
 [![Instagram](https://img.shields.io/badge/Instagram-alexandre_gliganic-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alexandre_gliganic/)
