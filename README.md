@@ -10,9 +10,6 @@ I'm a french student at [EPITA][epita].
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=C-Sharp)
-![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
-![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
 
 ### My projects 💻:
 - Discord Bot for network commands: [Networking-Tools](https://github.com/Alexandre-Gliganic/networking-tools)
