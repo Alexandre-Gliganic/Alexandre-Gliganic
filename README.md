@@ -18,7 +18,7 @@ I'm a french student at [EPITA][epita].
 
 ### Contact me 📢
 ![Discord](https://img.shields.io/badge/Discord-Alexandre_Pepito%234242-blue?style=for-the-badge&logo=discord&logoColor=white)
-[![Mail](https://img.shields.io/badge/Mail-contact@alexgg.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:contact@alexgg.fr)
+[![Mail](https://img.shields.io/badge/Mail-alexandre.gliganic@epita.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:alexandre.gliganic@epita.fr)
 [![Linkedin](https://img.shields.io/badge/Linkedin-alexandre_gliganic-purple?style=for-the-badge&logo=Linkedin&logoColor=white)][linkedin]
 [![Website](https://img.shields.io/badge/Website-alexandregliganic.fr-red?style=for-the-badge)](https://alexandregliganic.fr/contact)
 
